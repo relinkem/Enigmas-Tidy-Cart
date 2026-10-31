@@ -1,0 +1,9 @@
+{
+  "name": "Enigmas_Tidy_Cart",
+  "version_number": "0.1.15",
+  "website_url": "https://github.com/relinkem/Enigmas-Tidy-Cart",
+  "description": "Back your empty cart up to a wall and stow it upright out of the way. Use unstows it.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}
